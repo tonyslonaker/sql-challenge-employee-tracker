@@ -98,9 +98,6 @@ function viewEmployee() {
   });
   // console.log(query.sql);
 }
-
-//========================================= 2."View Employees by Department" / READ by, SELECT * FROM
-
 // Make a department array
 
 function viewEmployeeByDepartment() {
@@ -170,12 +167,6 @@ function promptDepartment(departmentChoices) {
       });
     });
 }
-
-//========================================= 3."View Employees by Manager"
-
-
-
-//========================================= 4."Add Employee" / CREATE: INSERT INTO
 
 // Make a employee array
 
@@ -251,8 +242,6 @@ function promptInsert(roleChoices) {
     });
 }
 
-//========================================= 5."Remove Employees" / DELETE, DELETE FROM
-
 // Make a employee array to delete
 
 function removeEmployees() {
@@ -304,8 +293,6 @@ function promptDelete(deleteEmployeeChoices) {
       // console.log(query.sql);
     });
 }
-
-//========================================= 6."Update Employee Role" / UPDATE,
 
 function updateEmployeeRole() { 
   employeeArray();
