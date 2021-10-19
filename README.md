@@ -36,6 +36,9 @@ Employee:
     *.last_name
     *role_id
     *manager_id
+    
+Code repo: https://github.com/tonyslonaker/sql-challenge-employee-tracker
+Video: https://www.youtube.com/watch?v=JqR7dckgIuY
 
 
 
