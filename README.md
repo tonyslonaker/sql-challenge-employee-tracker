@@ -37,7 +37,7 @@ Employee:
     *role_id
     *manager_id
     
-Code repo: https://github.com/tonyslonaker/sql-challenge-employee-tracker
+Code repo: https://github.com/tonyslonaker/sql-challenge-employee-tracker </br>
 Video: https://www.youtube.com/watch?v=JqR7dckgIuY
 
 
